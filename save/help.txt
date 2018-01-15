@@ -1,0 +1,10 @@
+'view' - view the model's hyperparameters
+'build' - build a new neural network with user-entered hyperparameters
+        layer dimensions: integer lengths of hidden layers and output layer separated by a space
+        learning_rate: float value to determine how quickly parameters are updated
+        iterations: integer number of times the model is run on the training datasets
+'train' - use hyperparameter values to train the neural network
+'predict' - predict a user entered image
+'save' - save the current parameters and hyperparameters of the model
+'load' - load the saved values for a model
+'quit' - quit the program
